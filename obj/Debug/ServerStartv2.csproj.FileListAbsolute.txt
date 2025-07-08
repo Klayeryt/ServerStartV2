@@ -1,0 +1,11 @@
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\bin\Debug\ServerStartv2.exe.config
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\bin\Debug\ServerStartv2.exe
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\bin\Debug\ServerStartv2.pdb
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\obj\Debug\ServerStartv2.csproj.AssemblyReference.cache
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\obj\Debug\ServerStartv2.Form1.resources
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\obj\Debug\ServerStartv2.Properties.Resources.resources
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\obj\Debug\ServerStartv2.csproj.GenerateResource.cache
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\obj\Debug\ServerStartv2.csproj.CoreCompileInputs.cache
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\obj\Debug\ServerStartv2.exe
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\obj\Debug\ServerStartv2.pdb
+C:\Users\klaye\source\repos\ServerStartv2\ServerStartv2\obj\Debug\ServerStartv2.exe.config
